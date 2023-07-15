@@ -10,8 +10,8 @@
 ### MAINTAINERS
 * **Hana_mehrin11**| 
 instagram
-: <a href="https://twitter.com/suman333mondal">@Hana_mehrin11</a>
-Github: <a href="https://github.com/OnlineHacking">@AdminOnlineHacking</a>
+: <a href="https://instagram .com/">@Hana_mehrin11</a>
+Github: <a https://github.com/status-free/WordlistPasswordGenerator/commit/1196ec7bdae5f48bb503a616c2ea9a9a75b1ea5bhref="https://github.com/OnlineHacking">@AdminOnlineHacking</a>
 Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 
